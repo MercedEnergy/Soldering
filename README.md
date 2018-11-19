@@ -1,7 +1,7 @@
 # SolderingTeam
-The goal of the soldering team is to gain experience by soldering elctronics and learning soldering methods and best practices. 
+The goal of the soldering team is to gain experience in soldering electronics, learning soldering methods and best practices. 
 ## Safety 
-Knowledge and understanding of safety. 
+Understanding of safety requirements and safety tools. 
 ## Education
 Able to explain concepts and terminology to others. 
 ## Objective 
