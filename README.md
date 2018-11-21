@@ -8,4 +8,4 @@ Able to explain concepts and terminology to others.
 Become experts in soldering. Being able to join components together using various methods. <br> 
 Knowledge of soldering, brazzing, welding. <br> 
 Knowledge of different types of metals and instruments. 
-
+## About 
