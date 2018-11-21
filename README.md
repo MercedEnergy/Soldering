@@ -11,3 +11,4 @@ Knowledge of different types of metals and instruments.
 # Documentation 
 ## 11-22-2018
 01 - Introduction and Safe Practices 
+<span style="color:blue">* (2) What is soldering </span>.
