@@ -1,7 +1,5 @@
 # November 22, 2018
-## Documentation 
-**11-22-2018** <br> 
-01 - Introduction and Safe Practices 
+## 01 - Introduction and Safe Practices  
 1. Title
 2. What Is Soldering
 3. Electrical Soldering
