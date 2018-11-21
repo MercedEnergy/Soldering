@@ -26,4 +26,4 @@ Knowledge of different types of metals and instruments.
 13. Diagonal flush cutting pliers
 14. Wire Strippers
 15. Ending 
-
+## 11-28-2018
