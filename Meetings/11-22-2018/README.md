@@ -15,7 +15,7 @@
 13. Diagonal flush cutting pliers
 14. Wire Strippers
 15. Ending 
-
+# November 29, 2018 
 Commited members should read the slides and ask questions. 
 - Do your reasearch
 - Learn about soldering on your own by searching online
