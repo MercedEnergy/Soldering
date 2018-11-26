@@ -5,4 +5,6 @@ Meetings will consist of going through or creating the files. Meetings may be ph
 ## November 22, 2018 
 ### 01 - Introduction and Safe Practices
 ## November 29, 2018 
-### 02
+### 02 - 
+## December 6, 2018 
+### 03 - 
