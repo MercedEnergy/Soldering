@@ -20,6 +20,6 @@ Fall 2018
 - Liza Oh 
 - Sidharth Babu
 # Project Leader 
-Ramiro Gonzalez 
-209-962-2524
-ramirogonzalez@mercednergy.com 
+Ramiro Gonzalez <br> 
+209-962-2524 <br> 
+ramirogonzalez@mercednergy.com <br> 
