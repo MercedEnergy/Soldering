@@ -17,8 +17,9 @@ Fall 2018
 - Sidharth Babu
 ## Organizational Conventions 
 ### Folders 
-- Meetings 
-  - Organized by date of delivery
-- Projects: 
-  - Organized by date of delivery 
-- docs
+#### Meetings 
+- Organized by date of delivery
+#### Projects: 
+- Organized by date of delivery 
+#### docs
+- Web Page for Soldering team 
