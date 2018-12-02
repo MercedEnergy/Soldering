@@ -20,6 +20,7 @@ Fall 2018
 #### Meetings 
 - Organized by date of delivery
 #### Projects: 
-- Organized by date of delivery 
+- Minor projects to be organized by date of delivery. 
+- Major projects to be organized by project name. 
 #### docs
 - Web Page for Soldering team 
