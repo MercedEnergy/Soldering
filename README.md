@@ -15,3 +15,10 @@ Fall 2018
 - Raymond Kim 
 - Liza Oh 
 - Sidharth Babu
+## Organizational Conventions 
+### Folders 
+- Meetings 
+-- Organized by date of delivery
+- Projects: 
+-- Organized by date of delivery 
+- docs
