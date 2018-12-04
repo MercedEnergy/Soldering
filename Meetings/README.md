@@ -7,6 +7,6 @@ Meetings will consist of going through or creating the files. Meetings may be ph
 ## November 29, 2018 
 ### 02 - Equipment And Material
 ## December 6, 2018 
-### 03 - 
+### 03 - Soldering PCBs and Trimming 
 #### Sources 
 Vinck, Marc De. Getting Started with Soldering: a Hands-on Guide to Making Electrical and Mechanical Connections. Maker Media, 2017.<br> 
