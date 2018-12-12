@@ -16,6 +16,8 @@ Fall 2018
 - Raymond Kim 
 - Liza Oh 
 - Sidharth Babu
+Spring 2019 
+- :sparkles: Ramiro Gonzalez 
 ## Organizational Conventions 
 ### Folders 
 #### Meetings 
