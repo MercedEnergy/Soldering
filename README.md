@@ -11,12 +11,12 @@ Knowledge of different types of metals and instruments.
 ## About
 The soldering team was officially created within MercedEnergy.com on 11-22-2018. 
 ## Members 
-Fall 2018 
+### Fall 2018 
 - :sparkles: Ramiro Gonzalez 
 - Raymond Kim 
 - Liza Oh 
 - Sidharth Babu
-Spring 2019 
+### Spring 2019 
 - :sparkles: Ramiro Gonzalez 
 ## Organizational Conventions 
 ### Folders 
