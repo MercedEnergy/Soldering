@@ -1,5 +1,5 @@
 # December 06, 2018
-## 03 - Soldering PCBs and Trimming 
+## 04 - Troubleshooting 
 1. Title
 2. Cold Joing
 3. Not Enough Solder 
